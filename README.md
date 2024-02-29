@@ -1,2 +1,2 @@
-# beecrowd
+# beecrowd Elixir
 beecrowd challenges
