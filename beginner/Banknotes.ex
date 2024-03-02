@@ -26,6 +26,7 @@ The possible banknotes are 100, 50, 20, 10, 5, 2 and 1.
   def run do
     notes = [100, 50, 20, 10, 5, 2, 1]
     a = IO.gets("") |> String.trim() |> String.to_integer
+    IO.puts(a)
     print_notes(a, notes)
   end
 end
